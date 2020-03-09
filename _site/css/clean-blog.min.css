@@ -419,3 +419,8 @@ footer .copyright {
 .button-to-right {
     float: right;
 }
+
+#post-content {
+    padding-top: 10px;
+    border-top: 1px solid black;
+}
